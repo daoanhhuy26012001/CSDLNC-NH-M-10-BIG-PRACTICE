@@ -33,3 +33,25 @@
 - Eslint v7.32.0 || v8.2.0
 - ReactJS v18.2.0
 - Pnpm 7.28.0
+## Getting started
+- Step 1: Clone repository
+  - With HTTPS:
+    - `$ git clone `
+- Step 2: Move to folder which just cloned in your computer
+  - `$ cd CSDLNC-NH-M-10-BIG-PRACTICE`
+- Step 3: Move it to branch big-practice
+  - `$ git checkout big-practice`
+- Step 4:
+  - Open terminal > `$ pnpm i`
+- Step 5:
+  - Run: `$ pnpm start`
+- Step 6:
+  - Open http://localhost:5173/ in browser
+## Author
+- Huy Dao
+- Phimmasan Sivilay
+- Silivongxay Phonepasit
+- Le Thanh Trung
+- Do Quoc Viet
+- Le Quoc Dung
+- Nguyen Dinh Quoc Tuan
